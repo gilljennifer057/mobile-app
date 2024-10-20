@@ -10,7 +10,7 @@ const HomeScreen = () => {
 
   return (
     <View style={globalStyles.container}>
-      <Text style={globalStyles.title}>Home</Text>
+      <Text style={globalStyles.title}>Home Coming Soon</Text>
     </View>
   );
 };

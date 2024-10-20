@@ -10,7 +10,7 @@ const ChartScreen = () => {
 
   return (
     <View style={globalStyles.container}>
-      <Text style={globalStyles.title}>Chart</Text>
+      <Text style={globalStyles.title}>Chart Coming Soon</Text>
     </View>
   );
 };

@@ -10,7 +10,7 @@ const SettingsScreen = () => {
 
   return (
     <View style={globalStyles.container}>
-      <Text style={globalStyles.title}>SettingsScreen</Text>
+      <Text style={globalStyles.title}>Settings Coming Soon</Text>
     </View>
   );
 };

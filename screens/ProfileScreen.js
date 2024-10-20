@@ -10,7 +10,7 @@ const ProfileScreen = () => {
 
   return (
     <View style={globalStyles.container}>
-      <Text style={globalStyles.title}>ProfileScreen</Text>
+      <Text style={globalStyles.title}>Profile Coming Soon</Text>
     </View>
   );
 };
